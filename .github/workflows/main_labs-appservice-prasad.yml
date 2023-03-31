@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'labs-appservice-Prasad'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF30E020494747FC8CD1488952390396 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DF17AC875C0A42428924D45C3FF18732 }}
           package: .
